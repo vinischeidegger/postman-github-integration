@@ -1,0 +1,27 @@
+{
+  "name": "postman-github-integration",
+  "version": "1.0.0",
+  "description": "Application to run Postman Tests from GitHub and Synchronize them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinischeidegger/postman-github-integration.git"
+  },
+  "keywords": [
+    "postman",
+    "github",
+    "newman"
+  ],
+  "author": "Vinicius Scheidegger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinischeidegger/postman-github-integration/issues"
+  },
+  "homepage": "https://github.com/vinischeidegger/postman-github-integration#readme",
+  "dependencies": {
+    "newman": "^4.1.0"
+  }
+}
